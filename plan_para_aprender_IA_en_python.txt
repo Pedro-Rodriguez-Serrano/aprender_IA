@@ -1,0 +1,136 @@
+Ruta para aprender IA con Python
+
+1. Aprender fundamentos de python
+
+    1.1. Python intermedio (listas, diccionarios, funciones, clases)
+    1.2. Numpy (muy importante)
+    1.3. Pandas (manejo de datos)
+    1.4. Matemáticas básicas en python:
+        1.4.1. Álgebra lineal (vectores, matrices)
+        1.4.2. Probabilidad
+        1.4.3. Estadística
+
+2. Machine Learning con scikit-learn
+
+    2.0. Preprocesamiento de datos
+        Limpieza de datos
+        Manejo de valores nulos
+        Encoding de variables categóricas
+        Escalado (StandardScaler, MinMaxScaler)
+        Feature engineering
+    2.1. Clasificación (Logistic Regression, SVM, KNN)
+    2.2. Regresión (Linear Regression)
+    2.3. Clustering (K-Means)
+    2.4. Evaluación de modelos (accuracy, precision, recall)
+    2.5. Overfitting / underfitting
+    2.6. Cross-validation
+    2.7. Mini-proyectos (Predicción de precios de casas,
+        Clasificación de emails (spam/no spam)...)
+    2.8. Pipelines
+        Pipeline de preprocesamiento + modelo
+        Evitar data leakage
+    2.9. Ajuste de hiperparámetros
+        GridSearchCV
+        RandomSearch
+
+3. Bases de Deep Learning
+
+    3.1. Qué es una red neuronal
+    3.2. Neuronas, capas, funciones de activación
+    3.3. Backpropagation
+    3.4. Gradiente descendente
+    3.5. Funciones de pérdida
+        MSE
+        Cross-entropy
+    3.6. Optimizers
+        SGD
+        Adam
+    3.7. Tipos de redes neuronales
+        Redes densas (MLP)
+        CNN (visión)
+        RNN / LSTM (secuencias)
+
+4. Deep Learning con frameworks
+
+    4.1. Keras
+        4.1.1 Introducción a Keras
+            Qué es y cómo funciona sobre TensorFlow
+        4.1.2 Construcción de modelos
+            Sequential API
+            Modelos por capas
+            Input / Output
+        4.1.3 Capas básicas
+            Dense (fully connected)
+            Activation layers
+            Dropout
+            Flatten
+        4.1.4 Compilación del modelo
+            Loss functions (MSE, CrossEntropy)
+            Optimizers (SGD, Adam)
+            Métricas
+        4.1.5 Entrenamiento
+            .fit()
+            epochs, batch size
+            validación
+        4.1.6 Evaluación y predicción
+            .evaluate()
+            .predict()
+        4.1.7 Overfitting y regularización
+            Dropout
+            Early stopping
+        4.1.8 Guardado y carga de modelos
+    4.2. TensorFlow
+        4.2.1 Introducción a TensorFlow
+            Ecosistema completo
+            Relación con Keras
+        4.2.2 Tensores
+            Qué son
+            Operaciones básicas
+        4.2.3 Computación automática de gradientes
+            GradientTape
+        4.2.4 Creación de modelos sin Keras
+            Definir capas manualmente
+            Forward pass
+        4.2.5 Entrenamiento personalizado
+            Custom training loops
+            Control total del entrenamiento
+        4.2.6 Optimización
+            Funciones de pérdida personalizadas
+            Optimizadores
+        4.2.7 TensorBoard
+            Visualización del entrenamiento
+    4.3. PyTorch
+        4.3.1 Introducción a PyTorch
+            Filosofía “define-by-run”
+            Diferencias con TensorFlow
+        4.3.2 Tensores en PyTorch
+            Creación y operaciones
+            GPU (CUDA)
+        4.3.3 Autograd
+            Cálculo automático de gradientes
+        4.3.4 Construcción de modelos
+            nn.Module
+            Capas personalizadas
+        4.3.5 Forward pass
+            Definición explícita
+        4.3.6 Entrenamiento manual
+            Loop de entrenamiento completo
+            Zero grad, backward, step
+        4.3.7 Funciones de pérdida y optimizadores
+        4.3.8 Dataset y DataLoader
+            Carga eficiente de datos
+        4.3.9 Guardado y carga de modelos
+
+5. Aplicaciones de Deep Learning
+
+    5.1. Visión por computador (CNNs)
+    5.2. NLP (texto)
+    5.3. Transfer learning
+    5.4. Fine-tuning
+
+6. Deploy de modelos
+
+    6.1. Guardar modelos
+    6.2. APIs (FastAPI / Flask)
+    6.3. Uso en producción
+    6.4. Concepto de inferencia
