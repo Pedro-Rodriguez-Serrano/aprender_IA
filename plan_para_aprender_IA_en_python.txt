@@ -2,8 +2,8 @@ Ruta para aprender IA con Python
 
 1. Aprender fundamentos de python
 
-    1.1. Python intermedio (listas, diccionarios, funciones, clases)
-    1.2. Numpy (muy importante)
+    ✅ 1.1. Python intermedio (listas, diccionarios, funciones, clases)
+    ✅1.2. Numpy (muy importante)
     1.3. Pandas (manejo de datos)
     1.4. Matemáticas básicas en python:
         1.4.1. Álgebra lineal (vectores, matrices)
