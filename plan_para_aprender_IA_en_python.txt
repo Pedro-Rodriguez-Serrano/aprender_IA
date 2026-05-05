@@ -13,8 +13,8 @@ Ruta para aprender IA con Python
 2. Machine Learning con scikit-learn
 
     2.0. Preprocesamiento de datos
-        Limpieza de datos
-        Manejo de valores nulos
+        ✅Limpieza de datos
+        ✅Manejo de valores nulos
         Encoding de variables categóricas
         Escalado (StandardScaler, MinMaxScaler)
         Feature engineering
