@@ -15,7 +15,7 @@ Ruta para aprender IA con Python
     2.0. Preprocesamiento de datos
         ✅Limpieza de datos
         ✅Manejo de valores nulos
-        Encoding de variables categóricas
+        ✅Encoding de variables categóricas
         Escalado (StandardScaler, MinMaxScaler)
         Feature engineering
     2.1. Clasificación (Logistic Regression, SVM, KNN)
