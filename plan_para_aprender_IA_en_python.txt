@@ -21,7 +21,7 @@ Ruta para aprender IA con Python
     2.1. Clasificación
         ✅Logistic Regression
         ✅SVM
-         KNN)
+        ✅KNN)
     2.2. Regresión (Linear Regression)
     2.3. Clustering (K-Means)
     2.4. Evaluación de modelos (accuracy, precision, recall)
