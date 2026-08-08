@@ -22,8 +22,8 @@ Ruta para aprender IA con Python
         ✅Logistic Regression
         ✅SVM
         ✅KNN)
-    2.2. Regresión (Linear Regression)
-    2.3. Clustering (K-Means)
+    2.2.✅ Regresión (Linear Regression)
+    2.3.✅Clustering (K-Means)
     2.4. Evaluación de modelos (accuracy, precision, recall)
     2.5. Overfitting / underfitting
     2.6. Cross-validation
