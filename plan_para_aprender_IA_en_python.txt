@@ -24,7 +24,7 @@ Ruta para aprender IA con Python
         ✅KNN)
     2.2.✅ Regresión (Linear Regression)
     2.3.✅Clustering (K-Means)
-    2.4. Evaluación de modelos (accuracy, precision, recall)
+    2.4.✅Evaluación de modelos (accuracy, precision, recall)
     2.5. Overfitting / underfitting
     2.6. Cross-validation
     2.7. Mini-proyectos (Predicción de precios de casas,
